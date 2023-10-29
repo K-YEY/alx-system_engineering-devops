@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Displays "BesT School" 10 TIMES
+
+x=0
+
+while [ $x -lt 10 ]
+do
+  if [ $x -eq 3 ]
+  then
+    echo "bad luck"
+  elif [ $x -eq 7 ]
+  then
+    echo "good luck"
+  else
+    echo "Best School"
+  fi
+  (( x++ ))
+done
+
