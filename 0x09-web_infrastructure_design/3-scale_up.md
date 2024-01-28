@@ -1,6 +1,6 @@
 # Scaled Up Web Infrastructure
 
-![Image of a scaled up web infrastructure](https://imgur.com/oBULAqt)
+![Image of a scaled up web infrastructure](3.jpg)
 
 [Visit Board](https://miro.com/app/board/uXjVN0PSWRk=/?share_link_id=483641209738)
 
