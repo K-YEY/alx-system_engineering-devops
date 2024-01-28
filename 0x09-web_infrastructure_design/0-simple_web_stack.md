@@ -1,6 +1,6 @@
 # Simple Web Stack
 
-![Image of a simple web stack](https://imgur.com/XXujrQN)
+![Image of a simple web stack](0,jpg)
 
 [Visit Board](https://miro.com/app/board/uXjVN0PSWRk=/?share_link_id=483641209738)
 
