@@ -1,6 +1,6 @@
 # Secured and Monitored Web Infrastructure
 
-![Image of a secured and monitored infrastructure](https://imgur.com/bESoka8)
+![Image of a secured and monitored infrastructure](2.jpg)
 
 [Visit Board](https://miro.com/app/board/uXjVN0PSWRk=/?share_link_id=483641209738)
 
