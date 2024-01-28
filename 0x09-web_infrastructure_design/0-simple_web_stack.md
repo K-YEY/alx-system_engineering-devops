@@ -1,6 +1,6 @@
 # Simple Web Stack
 
-![Image of a simple web stack]([0x09-web_infrastructure_design/0.jpg](https://github.com/K-YEY/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/0.jpg))
+![Image of a simple web stack](0.jpg)
 
 [Visit Board](https://miro.com/app/board/uXjVN0PSWRk=/?share_link_id=483641209738)
 
