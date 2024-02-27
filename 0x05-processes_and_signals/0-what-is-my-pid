@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# my PID.
+# my pid
 
-echo $$
-
+sleep 5 &
+echo "$!"
