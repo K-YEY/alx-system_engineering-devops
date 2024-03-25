@@ -1,17 +1,13 @@
-# 0x15. API 
+# 0x15. API
 
-## Resource
+## Description
+The aim of this project is to write automated tasks in Python instead of Bash.
+Those tasks focus on getting data from an API and exporting it in JSON or CSV format.
 
-- [Friends don’t let friends program in shell script](https://www.turnkeylinux.org/blog/friends-dont-let-friends-program-shell-script)
-- [What is an API](https://www.webopedia.com/definitions/api/)
-- [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
-- [What is a REST API](https://www.sitepoint.com/rest-api/)
-- [What are microservices](https://smartbear.com/solutions/microservices/)
-- [PEP8 Python style - having a clean code respecting style guide is really appreciated in the industry](https://www.python.org/dev/peps/pep-0008/)
-
-## Tasks
-
-<details>
-<summary><a href="./0-gather_data_from_an_API.py">0. Gather data from an API</a></summary><br>
-<a href='https://postimg.cc/N5NpbXMC' target='_blank'><img src='https://i.postimg.cc/8zG9pBVG/image.png' border='0' alt='image'/></a>
-</details>
+## Table of contents
+Files | Description
+----- | -----------
+[0-gather_data_from_an_API.py](./0-gather_data_from_an_API.py) | Python script that, using this REST API, for a given employee ID, returns information about his/her TODO list progress
+[1-export_to_CSV.py](./1-export_to_CSV.py) | Python script to export data in the CSV format, extending from 0-gather_data_from_an_API.py
+[2-export_to_JSON.py](./2-export_to_JSON.py) | Python script to export data in the JSON format, extending from 0-gather_data_from_an_API.py
+[3-dictionary_of_list_of_dictionaries.py](./3-dictionary_of_list_of_dictionaries.py) | Python script to export data in the JSON format, extending from 0-gather_data_from_an_API.py and 2-export_to_JSON.py 

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-# Beheaded process
+# kills the infinity and beyond program using sigkill signal
 
-pgrep -f 7-highlander | xargs kill -9
+# Terminate the infinate process
+pkill -9 "bash ./7-highlander" -f
